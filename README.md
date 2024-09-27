@@ -53,9 +53,16 @@ Test and validate the system for usability and reliability.
 
 ## Features
 List the main features of the project:
-- Feature 1: Brief description.
-- Feature 2: Brief description.
-- Feature 3: Brief description.
+ Feature 1: Admin Side
+ 	 Brief description: 
+   
+
+  
+ Feature 2: Teacher Side
+	Brief description
+
+
+ 
 
 ## Technologies Used
 PHP
@@ -65,7 +72,9 @@ Other Tools: Git for version control
 
 ## Setup and Installation
 Step-by-step instructions for setting up the project locally.
-Step 1: The initial step in this process involves ensuring the installation of
+
+ Step 1: Installation of Git CLI.
+	- The initial step in this process involves ensuring the installation of
 the Git Command Line Interface (CLI) on the computing device that will be
 employed. This installation is a prerequisite, as the Git CLI is an essential
 tool required for the entirety of this procedure. The absence of this tool on the
@@ -73,19 +82,17 @@ machine would impede any further progression in the development process.
 Additionally, the Git CLI will be utilized for the critical task of cloning the
 relevant repository.
 
- Installation of Git CLI.
 
-Step 2: Upon successful installation of the Git CLI, the next step involves
+ Step 2: Copying and cloning the repository.
+	- Upon successful installation of the Git CLI, the next step involves
 identifying a repository that closely mirrors the intended application system,
 specifically an "Attendance Checker Application System." This repository must
 then be cloned into a designated file location within the local hard drive of the
 computing device being used.
 
- Copying and cloning the repository
 
- Copying and cloning the repository
-
-Step 3: Following the completion of the cloning process, the subsequent phase
+ Step 3: Setup of the repository in XAMPP/PHPMyAdmin.
+	- Following the completion of the cloning process, the subsequent phase
 entails executing and testing the cloned repository. This step is crucial in
 determining the functionality of all included components. Moreover, it is
 necessary to evaluate the compatibility of the programming languages and
@@ -93,9 +100,9 @@ technologies employed within the repository against those available in our
 development environment. This assessment is critical in determining the relevance
 of our prior knowledge and will streamline the subsequent setup process.
 
- Setup of the repository in XAMPP/PHPMyAdmin
 
-Step 4: The testing phase serves as a pivotal point in ascertaining whether the
+ Step 4: Testing Phase.
+	- The testing phase serves as a pivotal point in ascertaining whether the
 acquired repository is appropriate for the development of the intended
 application system and whether it aligns with the theoretical and practical
 knowledge acquired throughout our studies. For instance, it is imperative to
@@ -103,13 +110,12 @@ assess our familiarity with the programming languages and tools utilized in the
 repository. This evaluation extends to any Integrated Development Environments
 (IDEs) or supplementary applications that may be required.
 
- Testing Phase
 
-Final Step: The concluding step involves updating the project tracker to document
+ Final Step: Updating the Tracker to monitor the progress.
+	- The concluding step involves updating the project tracker to document
 and monitor our progress throughout the development process. This practice
 ensures systematic tracking and facilitates effective project management.
 
- Updating the Tracker to monitor the progress
 
 1. **Clone the repository:**
    ```bash
