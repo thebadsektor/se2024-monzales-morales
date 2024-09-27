@@ -22,7 +22,7 @@ Password: pass123
 #
 ![Screenshot (1316)](https://user-images.githubusercontent.com/36708000/173137075-81d7b66e-a5cc-4228-ab14-cecc465701d7.png)
 
-![Project Banner](https://via.placeholder.com/1200x400.png?text=Project+Banner+Placeholder)
+![Project Banner](Banner.jpeg)
 
 ## Table of Contents
 - [Introduction](#introduction)
