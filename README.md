@@ -1,28 +1,11 @@
 # SD-3101 ATTENDANCE TRACKING SYSTEM
 
-![alt text](BANNER.jpg)
+This PHP attendance system project is designed to manage student attendance and records effectively.
+It features three main sections: Admin Panel, Student Panel, and Teacher's Panel. The admin can create
+users and manage data, while teachers can track attendance for their subjects, and students can view
+their attendance records.
 
-This PHP attendance system project is designed to manage student attendance and records effectively. It features three main sections: Admin Panel, Student Panel, and Teacher's Panel. The admin can create users and manage data, while teachers can track attendance for their subjects, and students can view their attendance records.
 
-
-**Admin Login Details**
-Email : admin@mail.com
-Password: Password@123
-
-**Teacher Login Details** 
-Email : teacher@mail.com
-Password: pass123
-
-#
-![Screenshot (1308)](https://user-images.githubusercontent.com/36708000/173136998-4de6eccc-377f-419e-83b6-e767503bbb5d.png)
-#
-![Screenshot (1309)](https://user-images.githubusercontent.com/36708000/173137041-69d68213-077d-4362-bd4e-cfba5a6b2202.png)
-#
-![Screenshot (1313)](https://user-images.githubusercontent.com/36708000/173137057-5aad5420-7689-4d5e-aae0-df796154e993.png)
-#
-![Screenshot (1316)](https://user-images.githubusercontent.com/36708000/173137075-81d7b66e-a5cc-4228-ab14-cecc465701d7.png)
-
-![Project Banner](Banner.jpeg)
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -41,25 +24,48 @@ Password: pass123
 ---
 
 ## Introduction
-This project aims to simplify attendance management in educational institutions by providing a user-friendly interface for admins, teachers, and students.
+	Managing attendance in schools, colleges, or universities is very important. Traditional ways of tracking attendance
+ by hand can take a lot of time, lead to mistakes, and be hard to keep up with. This PHP Attendance System helps solve these
+ problems by making attendance management easier. It is a digital platform that lets administrators, teachers, and students
+ work with attendance data in a simple and easy way. The system makes tracking attendance, managing data, and creating reports
+ easier, ensuring accuracy and saving time for both teachers and students.
+
+	The system has different user roles like Admin, Teacher, and Student. This makes sure each user can use specific features
+ that match their role. Administrators can manage the whole process, teachers can track and update attendance, and students can
+ easily check their own attendance, making the records more organized and easier to manage.
+ 
 
 ## Project Overview
-The system is targeted at schools and universities, providing a reliable way to track student attendance, generate reports, and manage user data.
+	This PHP Attendance System is made for schools, colleges, and universities. It gives a reliable and easy way to manage and
+ track student attendance. The system has three main sections: an Admin Panel, a Teacher Panel, and a Student Panel. Each section
+ is designed to meet the needs of its users.
+
+	In the Admin Panel, the administrator can manage students, classes, classrooms, and teachers, and can track attendance for
+ the whole institution. In the Teacher Panel, teachers can track attendance for their own subjects and view class information. In
+ the Student Panel, students can check their own attendance history, helping them take more responsibility. This project replaces
+ the old paper-based attendance system with a digital solution that reduces mistakes, organizes data better, and allows faster
+ reporting. It helps keep attendance records accurate and always up-to-date.
+
 
 ## Objectives
 Develop a solution for efficient attendance tracking.
 Implement user roles and permissions.
 Test and validate the system for usability and reliability.
 
+
 ## Features
 List the main features of the project:
  Feature 1: Admin Side
- 	 Brief description: 
+ 	 Brief description: The admin has access to a dashboard that displays comprehensive
+information about students, classes, classrooms, the total number of students, class teachers,
+and session terms. In short, the admin manages all of these, from organizing students and
+classes to monitoring teachers and session terms.
    
 
-  
  Feature 2: Teacher Side
-	Brief description
+	Brief description: Teachers have their own dashboard, which shows students, classes,
+ classrooms, and the total number of their students. However, teachers are limited to managing
+ only their own students and classes.
 
 
  
@@ -69,6 +75,8 @@ PHP
 Frameworks/Libraries: Bootstrap for UI
 Databases: MySQL
 Other Tools: Git for version control
+
+
 
 ## Setup and Installation
 Step-by-step instructions for setting up the project locally.
@@ -117,6 +125,7 @@ and monitor our progress throughout the development process. This practice
 ensures systematic tracking and facilitates effective project management.
 
 
+
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/dev-mhrony/Student-Attendance-System01.git
@@ -137,17 +146,29 @@ ensures systematic tracking and facilitates effective project management.
 ## Usage Instructions
 
 Access the application:
-- After setup, open your browser and go to http://localhost:8000.
+- After setup, open your browser and go to [http://localhost:8000.](http://localhost/Student-Attendance-System01)
 Log in using the provided credentials.
 
 
+**Admin Login Details**
+Email : admin@mail.com
+Password: Password@123
+
+**Teacher Login Details** 
+Email : teacher@mail.com
+Password: pass123
 
 
-![UI Placeholder](https://via.placeholder.com/1200x700.png?text=UI+Placeholder)
+#
+![Screenshot (1308)](https://user-images.githubusercontent.com/36708000/173136998-4de6eccc-377f-419e-83b6-e767503bbb5d.png)
+#
+![Screenshot (1309)](https://user-images.githubusercontent.com/36708000/173137041-69d68213-077d-4362-bd4e-cfba5a6b2202.png)
+#
+![Screenshot (1313)](https://user-images.githubusercontent.com/36708000/173137057-5aad5420-7689-4d5e-aae0-df796154e993.png)
+#
+![Screenshot (1316)](https://user-images.githubusercontent.com/36708000/173137075-81d7b66e-a5cc-4228-ab14-cecc465701d7.png)
 
-Another Screenshot
 
-![UI Placeholder](https://via.placeholder.com/1200x700.png?text=UI+Placeholder)
 
 ## Project Structure
 Explain the structure of the project directory. Example:
