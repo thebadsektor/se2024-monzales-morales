@@ -1,10 +1,9 @@
 # SD-3101 ATTENDANCE TRACKING SYSTEM
 
-This PHP attendance system project is designed to manage student attendance and records effectively.
+   This PHP attendance system project is designed to manage student attendance and records effectively.
 It features three main sections: Admin Panel, Student Panel, and Teacher's Panel. The admin can create
 users and manage data, while teachers can track attendance for their subjects, and students can view
 their attendance records.
-
 
 
 ## Table of Contents
@@ -24,27 +23,27 @@ their attendance records.
 ---
 
 ## Introduction
-	Managing attendance in schools, colleges, or universities is very important. Traditional ways of tracking attendance
- by hand can take a lot of time, lead to mistakes, and be hard to keep up with. This PHP Attendance System helps solve these
- problems by making attendance management easier. It is a digital platform that lets administrators, teachers, and students
- work with attendance data in a simple and easy way. The system makes tracking attendance, managing data, and creating reports
- easier, ensuring accuracy and saving time for both teachers and students.
+   Managing attendance in schools, colleges, or universities is very important. Traditional ways of tracking attendance
+by hand can take a lot of time, lead to mistakes, and be hard to keep up with. This PHP Attendance System helps solve these
+problems by making attendance management easier. It is a digital platform that lets administrators, teachers, and students
+work with attendance data in a simple and easy way. The system makes tracking attendance, managing data, and creating reports
+easier, ensuring accuracy and saving time for both teachers and students.
 
-	The system has different user roles like Admin, Teacher, and Student. This makes sure each user can use specific features
- that match their role. Administrators can manage the whole process, teachers can track and update attendance, and students can
- easily check their own attendance, making the records more organized and easier to manage.
+   The system has different user roles like Admin, Teacher, and Student. This makes sure each user can use specific features
+that match their role. Administrators can manage the whole process, teachers can track and update attendance, and students can
+easily check their own attendance, making the records more organized and easier to manage.
  
 
 ## Project Overview
-	This PHP Attendance System is made for schools, colleges, and universities. It gives a reliable and easy way to manage and
- track student attendance. The system has three main sections: an Admin Panel, a Teacher Panel, and a Student Panel. Each section
- is designed to meet the needs of its users.
+   This PHP Attendance System is made for schools, colleges, and universities. It gives a reliable and easy way to manage and
+track student attendance. The system has three main sections: an Admin Panel, a Teacher Panel, and a Student Panel. Each section
+is designed to meet the needs of its users.
 
-	In the Admin Panel, the administrator can manage students, classes, classrooms, and teachers, and can track attendance for
- the whole institution. In the Teacher Panel, teachers can track attendance for their own subjects and view class information. In
- the Student Panel, students can check their own attendance history, helping them take more responsibility. This project replaces
- the old paper-based attendance system with a digital solution that reduces mistakes, organizes data better, and allows faster
- reporting. It helps keep attendance records accurate and always up-to-date.
+   In the Admin Panel, the administrator can manage students, classes, classrooms, and teachers, and can track attendance for
+the whole institution. In the Teacher Panel, teachers can track attendance for their own subjects and view class information. In
+the Student Panel, students can check their own attendance history, helping them take more responsibility. This project replaces
+the old paper-based attendance system with a digital solution that reduces mistakes, organizes data better, and allows faster
+reporting. It helps keep attendance records accurate and always up-to-date.
 
 
 ## Objectives
