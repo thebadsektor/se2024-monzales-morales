@@ -174,16 +174,25 @@ Password: pass123
 ## Project Structure
 Explain the structure of the project directory. Example:
 ```bash
+
 .
-├── src/
-│   ├── components/
-│   ├── pages/
-│   └── utils/
-├── public/
-├── tests/
-├── .env.example
-├── package.json
-└── README.md
+├── Admin
+├── ClassTeacher
+├── DATABASE FILE
+├── Includes
+├── css
+├── font
+├── img
+├── js
+├── scripts
+├── scss
+├── vendor
+├── .gitattributes
+├── .gitignore
+├── README.md
+├── classTeacherLogin.php
+├── forgotPassword.php
+└── index.php
 ```
 
 ## Contributors
