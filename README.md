@@ -208,8 +208,14 @@ List all the team members involved in the project. Include their roles and respo
 Outline the project timeline, including milestones or deliverables. Example:
 
 - **Week 1-2**: Research and project planning.
-	- Feature: Dockerize Project
- 	- Complettion Date: 27/10/2024	
+	-	Collaborative Brainstorming for Feature Development
+ 			09/15/2024
+			Meeting recording: https://drive.google.com/drive/folders/1o0NwuW-n9XIobr-toCEk6idXgFPiO935?usp=sharing
+	- Feature: Dockerize Project 
+			YouTube link: https://www.youtube.com/watch?v=WZd1ALaVFjI
+ 	- Complettion Date: 27/10/2024
+    			Due to the typhoon Kristine, the deadline has been adjusted to November 8, 2024 at 11:59pm.
+		  	And our group was sumitted it on this day, before the time ran out.
 - **Week 3-5**: Design and setup.
 - **Week 6-10**: Implementation.
 - **Week 11-12**: Testing and debugging.
